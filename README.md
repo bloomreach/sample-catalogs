@@ -9,5 +9,9 @@ curl -v --request PUT \
      --url https://api.connect.bloomreach.com/dataconnect/api/v1/accounts/{INSERT_ACCOUNT_ID}/catalogs/{INSERT_CATALOG_NAME}/products \
      --header 'Content-Type: application/json-patch+jsonlines' \
      --header 'Authorization: {INSERT_ACCESS_TOKEN}' \
-     --data-binary @./pacifichome_mini/pacifichome_mini.jsonl
+     --data-binary @./pacifichome_mini_en/pacifichome_mini_en.jsonl
 ```
+
+## Related documentation
+- [Catalog Management APIs Overview](https://documentation.bloomreach.com/discovery/reference/api-based-catalog-data-management)
+- [Catalog management](https://documentation.bloomreach.com/discovery/docs/catalog-management)
