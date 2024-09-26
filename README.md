@@ -15,3 +15,9 @@ curl -v --request PUT \
 ## Related documentation
 - [Catalog Management APIs Overview](https://documentation.bloomreach.com/discovery/reference/api-based-catalog-data-management)
 - [Catalog management](https://documentation.bloomreach.com/discovery/docs/catalog-management)
+
+## Related resources
+
+- [Bloomreach SDK](https://documentation.bloomreach.com/discovery/docs/discovery-sdks)
+- [Limitless Commerce UI Kit](https://bloomreach.github.io/limitless-ui-react)
+- [Web Code Samples](https://documentation.bloomreach.com/discovery/docs/discovery-web-code-samples)
